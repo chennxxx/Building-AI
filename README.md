@@ -2,13 +2,13 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title 1
+# Chatbot in logistic industry
 
 Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+We are facing a great increase in logistic industry in US and EU. It becomes an big challange that how to serve these groups of people efficiently.
 
 
 ## Background
